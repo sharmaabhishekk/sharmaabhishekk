@@ -1,5 +1,5 @@
-<p>Welcome to my page! </br> I'm Abhishek Sharma, Data Scientist, from <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_India.svg" width="20"/> <b>India.</b>
-Pronouns: he/him. 
+I'm Abhishek Sharma, Data Scientist, from <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_India.svg" width="20"/> <b>India.</b>
+<b>Pronouns<b>: he/him. 
 
 <h3>My Interests</h3>
 

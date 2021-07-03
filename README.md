@@ -76,11 +76,18 @@ ___________
     <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>     
 </p> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharmaabhishekk&show_icons=true&locale=en&layout=compact" alt="sharmaabhishekk" /></p>
+-------------------
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharmaabhishekk&show_icons=true&locale=en" alt="sharmaabhishekk" /></p>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharmaabhishekk&show_icons=true&locale=en&layout=compact" alt="sharmaabhishekk" width="400" height="200"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharmaabhishekk&" alt="sharmaabhishekk" /></p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmaabhishekk&" alt="sharmaabhishekk" width="450" height="350"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=sharmaabhishekk&show_icons=true&locale=en" alt="sharmaabhishekk" width="450" height="350"/>
+</p>
+
+<p></p>
 
 [website]: https://sharmaabhishekk.github.io/
 [twitter]: https://twitter.com/abhisheksh_98

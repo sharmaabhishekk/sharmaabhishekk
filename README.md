@@ -122,5 +122,10 @@ ___________
 
 <p></p>
 
+### Spotify Playing
+[<img src="novatorem-two-delta.vercel.app" alt="Abhishek Now Playing" width="350" />](https://open.spotify.com/user/qrfh104vzx65b9807pb8h63id
+)
+
+
 [website]: https://sharmaabhishekk.github.io/
 [twitter]: https://twitter.com/abhisheksh_98

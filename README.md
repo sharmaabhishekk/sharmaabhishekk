@@ -123,8 +123,9 @@ ___________
 <p></p>
 
 ### Spotify Playing
-[<img src="https://novatorem-sharmaabhishekk.vercel.app/" alt="Abhishek Now Playing" width="350" />](https://open.spotify.com/user/qrfh104vzx65b9807pb8h63id
-)
+[![Spotify](https://novatorem-two-delta.vercel.app/api/spotify)](https://open.spotify.com/user/qrfh104vzx65b9807pb8h63id)
+
+
 
 
 [website]: https://sharmaabhishekk.github.io/

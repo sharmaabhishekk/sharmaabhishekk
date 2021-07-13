@@ -123,7 +123,7 @@ ___________
 <p></p>
 
 ### Spotify Playing
-[<img src="https://sharmaabhishekk.vercel.app/api/spotify" alt="Abhishek Now Playing" width="350" />](https://open.spotify.com/user/qrfh104vzx65b9807pb8h63id
+[<img src="https://novatorem-sharmaabhishekk.vercel.app/" alt="Abhishek Now Playing" width="350" />](https://open.spotify.com/user/qrfh104vzx65b9807pb8h63id
 )
 
 

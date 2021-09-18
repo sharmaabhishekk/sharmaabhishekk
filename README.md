@@ -16,9 +16,11 @@
 
 1. **Data Science Applications focusing on football analytics ⚽**
     * ***Building Products for Practical Applications in Football:***
-       * flexible tactics animation board
-       * built a twitter bot to get automatic bespoke player visualizations
-       * simple way to create pitches for different data providers 
+       * [TactiMation](https://sharmaabhishekk.github.io/TactiMation/) - A flexible tactics animation board
+       * [Wosonars](https://twitter.com/wosonars) - Twitter bot to automate query-based player visualizations
+       * [xGBoard](https://sharmaabhishekk.github.io/Interactive-freeze-frames-xg/) - Interactive application to get xG values for shots based on a CNN model
+       * [MplFooty](https://sharmaabhishekk.github.io/mpl-footy/) - Gallery of football analytics vizzes created using matplotlib
+       * [Futbolista](https://juliahub.com/docs/Futbolista/hDjuW/0.2.0/) - Julia package to make football analytics tasks easier
     * ***Statistical Modelling for Predictive Football Analytics:***
        * Expected Goals Model
        * Expected Threat Models

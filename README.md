@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
-<h3 align="center">A data scientist from India</h3>
+<h3 align="center">Data scientist, India</h3>
 
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=sharmaabhishekk&label=Profile%20views&color=0e75b6&style=flat" alt="sharmaabhishekk" align="center"/>
@@ -32,13 +32,6 @@
        * Clustering players based on roles
     * ***Creating Static Visualizations for story-telling purposes:***
        * A link to some of my static vizzes can be found [here](https://drive.google.com/drive/folders/1gyN-Vv2wgvZsNREMn1kGxMAU5BP7jbZm) 
-  
-___________
-
-- **I’m currently working on [Futbolista.jl](https://github.com/sharmaabhishekk/Futbolista.jl)**
-- **I’m currently learning Fast.AI**
-- **Fun fact about me: I am *very* bad at chess**
-
 ___________
 
 <h3 align="left">Things I Work With:</h3>
@@ -123,12 +116,6 @@ ___________
 </p>
 
 <p></p>
-
-### Spotify Playing
-[![Spotify](https://novatorem-two-delta.vercel.app/api/spotify)](https://open.spotify.com/user/qrfh104vzx65b9807pb8h63id)
-
-
-
 
 [website]: https://sharmaabhishekk.github.io/
 [twitter]: https://twitter.com/abhisheksh_98
